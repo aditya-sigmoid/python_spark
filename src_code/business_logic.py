@@ -1,3 +1,7 @@
+#variable should be more appropriate
+# add more comments for better understanding
+
+
 # this file includes all the business logic
 
 from pyspark.sql import SparkSession
