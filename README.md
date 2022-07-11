@@ -1,7 +1,7 @@
 # python_spark
 
 Use the API 
-https://rapidapi.com/eec19846/api/investors-exchange-iex-trading/
+https://rapidapi.com/lattice-data-lattice-data-default/api/stock-market-data/ --> Stock --> Historical price
 to download data for 100 stocks and save in separate csv files for each stock.
 
 Create Spark data frames by reading the csv files and do following analysis
